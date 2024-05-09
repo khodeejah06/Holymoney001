@@ -1,1 +1,1 @@
-GROUP 7
+GROUP 7 project
